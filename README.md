@@ -27,5 +27,12 @@ Replace `3.xx` with your Python version (e.g., 3.10).
 pip install -r requirements.txt
 ```
 
-### ✅ You're ready to go!
-After installation, run the main script or notebook to start interacting with the chatbot.
+### ✅ Step 4: Launch the Chatbot
+## Once setup is complete, you're ready to run the chatbot!
+
+## You can start it via the main script or Jupyter Notebook, depending on how the project is structured:
+
+
+```bash
+python app.py
+```
